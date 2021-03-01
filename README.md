@@ -1,4 +1,4 @@
-# Final-Project
+# New York Weather Forcast base on Machine Learning
 
 ## Plan A: Weather Prediction
 - Available historical [weather records](https://www.ncdc.noaa.gov/cdo-web/search) from past decade 
